@@ -18,4 +18,4 @@ jobs:
         server: ftp.proctorglobal.ca
         username: cicd12324@dev.dev.proctorglobal.ca
         password: 9jf^=48@Xg_(
-        server-dir: /public/dev.dev.proctorglobal.ca/
+        server-dir: /public_html/dev.dev.proctorglobal.ca/
